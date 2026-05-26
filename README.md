@@ -10,8 +10,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ymirandex@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LMirandaC07)
 
-![Visitors](https://komarev.com/ghpvc/?username=LMirandaC07&color=7c3aed&style=flat-square&label=Visitantes+no+perfil)
-
 </div>
 
 ---
@@ -27,25 +25,15 @@ Atualmente construo projetos práticos para aprofundar meus conhecimentos e busc
 
 ## 🎯 Objetivos
 
-<table>
-  <tr>
-    <td>🚀</td>
-    <td><strong>Curto prazo</strong></td>
-    <td>Conquistar minha primeira oportunidade como estagiário ou desenvolvedor júnior Back-end Java</td>
-  </tr>
-  <tr>
-    <td>📚</td>
-    <td><strong>Médio prazo</strong></td>
-    <td>Me tornar um desenvolvedor Back-end sólido, dominando arquitetura de microsserviços e boas práticas de engenharia de software</td>
-  </tr>
-  <tr>
-    <td>🌎</td>
-    <td><strong>Longo prazo</strong></td>
-    <td>Trabalhar em projetos de impacto real, contribuir com open source e crescer como engenheiro de software completo</td>
-  </tr>
-</table>
+- 🚀 **Curto prazo** — Conquistar minha primeira oportunidade como estagiário ou desenvolvedor júnior Back-end Java
+- 📚 **Médio prazo** — Dominar arquitetura de microsserviços e me tornar referência em Back-end com Java e Spring
+- 🌎 **Longo prazo** — Trabalhar em produtos que impactem pessoas reais e contribuir ativamente com a comunidade dev
 
-> 💼 **Aberto a oportunidades!** Estou disponível para estágios e posições júnior em Back-end Java ou Full Stack.
+<div align="center">
+
+![disponivel](https://img.shields.io/badge/💼%20Disponível%20para%20oportunidades-7c3aed?style=for-the-badge&logoColor=white)
+
+</div>
 
 ---
 
@@ -77,17 +65,12 @@ Atualmente construo projetos práticos para aprofundar meus conhecimentos e busc
 
 ## 🧠 Soft Skills
 
-<div align="center">
-
-| 💬 Comunicação | 🤝 Trabalho em equipe | 🔍 Atenção aos detalhes |
-|:-:|:-:|:-:|
-| Consigo explicar ideias técnicas de forma clara e objetiva | Colaboro bem em times, valorizo feedback e troca de conhecimento | Código limpo e bem estruturado não é opcional pra mim |
-
-| 🧩 Resolução de problemas | 📈 Aprendizado contínuo | ⏱️ Comprometimento |
-|:-:|:-:|:-:|
-| Gosto de entender a raiz do problema antes de sair codando | Estudo todos os dias — seja um artigo, vídeo ou projeto novo | Entrego o que prometo e busco sempre superar expectativas |
-
-</div>
+- 💬 **Comunicação clara** — consigo explicar ideias técnicas de forma objetiva, seja pra devs ou não-técnicos
+- 🤝 **Trabalho em equipe** — valorizo feedback, colaboração e troca de conhecimento
+- 🔍 **Atenção aos detalhes** — código limpo e bem estruturado não é opcional pra mim
+- 🧩 **Resolução de problemas** — gosto de entender a raiz do problema antes de sair codando
+- 📈 **Aprendizado contínuo** — estudo todos os dias, seja um artigo, vídeo ou projeto novo
+- ⏱️ **Comprometimento** — entrego o que prometo e busco sempre superar expectativas
 
 ---
 
@@ -124,36 +107,17 @@ API REST completa para controle de finanças pessoais com autenticação JWT, in
 
 ---
 
-## 📈 O que estou aprendendo agora
-
-- 🏗️ Arquitetura REST e boas práticas de API
-- 🔐 Autenticação e segurança com Spring Security + JWT
-- 🔗 Integração front-end e back-end
-- ✨ Boas práticas de código limpo
-
----
-
 ## 🏀 Fora do código
 
 Quando não estou programando, você provavelmente me acha assistindo ou jogando **basquete**.
 
-Sou fã assumido do **Golden State Warriors** e meu GOAT é o **Stephen Curry** — sim, o maior arremessador de todos os tempos, sem discussão. 🍀
+Sou fã assumido do **Golden State Warriors** e meu GOAT é o **Stephen Curry** — o maior arremessador de todos os tempos, sem discussão. 🍀
 
 ```
 🏀  Basquete     ████████████████████  100%
 💻  Programação  ████████████████████  100%
-😴  Dormir       ████████░░░░░░░░░░░░   40%  (bugs têm horário comercial? não.)
+😴  Dormir       ████████░░░░░░░░░░░░   40%  (bugs não têm horário comercial)
 ```
-
----
-
-## 🐍 Contribuições
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/LMirandaC07/LMirandaC07/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 ---
 
