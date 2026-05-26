@@ -10,6 +10,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ymirandex@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LMirandaC07)
 
+![Visitors](https://komarev.com/ghpvc/?username=LMirandaC07&color=7c3aed&style=flat-square&label=Visitantes+no+perfil)
+
 </div>
 
 ---
@@ -20,6 +22,30 @@ Tenho 19 anos e estou me desenvolvendo como desenvolvedor **Full Stack com foco 
 Atualmente construo projetos práticos para aprofundar meus conhecimentos e busco minha primeira oportunidade como **estagiário ou desenvolvedor júnior**.
 
 > *"Estou no início da jornada, mas construindo projetos reais desde o primeiro dia."*
+
+---
+
+## 🎯 Objetivos
+
+<table>
+  <tr>
+    <td>🚀</td>
+    <td><strong>Curto prazo</strong></td>
+    <td>Conquistar minha primeira oportunidade como estagiário ou desenvolvedor júnior Back-end Java</td>
+  </tr>
+  <tr>
+    <td>📚</td>
+    <td><strong>Médio prazo</strong></td>
+    <td>Me tornar um desenvolvedor Back-end sólido, dominando arquitetura de microsserviços e boas práticas de engenharia de software</td>
+  </tr>
+  <tr>
+    <td>🌎</td>
+    <td><strong>Longo prazo</strong></td>
+    <td>Trabalhar em projetos de impacto real, contribuir com open source e crescer como engenheiro de software completo</td>
+  </tr>
+</table>
+
+> 💼 **Aberto a oportunidades!** Estou disponível para estágios e posições júnior em Back-end Java ou Full Stack.
 
 ---
 
@@ -46,6 +72,22 @@ Atualmente construo projetos práticos para aprofundar meus conhecimentos e busc
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+---
+
+## 🧠 Soft Skills
+
+<div align="center">
+
+| 💬 Comunicação | 🤝 Trabalho em equipe | 🔍 Atenção aos detalhes |
+|:-:|:-:|:-:|
+| Consigo explicar ideias técnicas de forma clara e objetiva | Colaboro bem em times, valorizo feedback e troca de conhecimento | Código limpo e bem estruturado não é opcional pra mim |
+
+| 🧩 Resolução de problemas | 📈 Aprendizado contínuo | ⏱️ Comprometimento |
+|:-:|:-:|:-:|
+| Gosto de entender a raiz do problema antes de sair codando | Estudo todos os dias — seja um artigo, vídeo ou projeto novo | Entrego o que prometo e busco sempre superar expectativas |
+
+</div>
 
 ---
 
@@ -88,6 +130,20 @@ API REST completa para controle de finanças pessoais com autenticação JWT, in
 - 🔐 Autenticação e segurança com Spring Security + JWT
 - 🔗 Integração front-end e back-end
 - ✨ Boas práticas de código limpo
+
+---
+
+## 🏀 Fora do código
+
+Quando não estou programando, você provavelmente me acha assistindo ou jogando **basquete**.
+
+Sou fã assumido do **Golden State Warriors** e meu GOAT é o **Stephen Curry** — sim, o maior arremessador de todos os tempos, sem discussão. 🍀
+
+```
+🏀  Basquete     ████████████████████  100%
+💻  Programação  ████████████████████  100%
+😴  Dormir       ████████░░░░░░░░░░░░   40%  (bugs têm horário comercial? não.)
+```
 
 ---
 
