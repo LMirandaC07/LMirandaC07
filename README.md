@@ -16,7 +16,7 @@
 
 ## 👋 Olá, eu sou o Luis Gustavo
 
-Tenho 19 anos e estou me desenvolvendo como desenvolvedor **Full Stack com foco em Back-end Java**.
+Tenho 19 anos e estou me desenvolvendo como desenvolvedor **Full Stack com foco em Back-end**.
 Atualmente construo projetos práticos para aprofundar meus conhecimentos e busco minha primeira oportunidade como **estagiário ou desenvolvedor júnior**.
 
 > *"Estou no início da jornada, mas construindo projetos reais desde o primeiro dia."*
