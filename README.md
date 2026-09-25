@@ -1,79 +1,70 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=210&section=header&text=Luis%20Gustavo&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Desenvolvedor%20Back-end%20Java%20%7C%20Estudante%20de%20ADS&descAlignY=57&descSize=18&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=210&section=header&text=Luis%20Gustavo&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Back-end%20Java%20%7C%20Spring%20Boot%20%7C%20Estudante%20de%20ADS&descAlignY=57&descSize=17&animation=fadeIn)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavomirandac/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ymirandex@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LMirandaC07)
+### Construindo APIs e transformando estudo em projetos reais.
 
-</div>
+🎓 **Análise e Desenvolvimento de Sistemas — Universidade Católica de Brasília (UCB)**  
+🎯 **Buscando minha primeira oportunidade de estágio em desenvolvimento de software**
 
-## 👋 Sobre mim
-
-Sou **Luis Gustavo**, estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor em formação com foco em **Back-end Java**.
-
-Gosto de aprender construindo. Tenho desenvolvido projetos que me permitem sair do CRUD básico e praticar APIs REST, regras de negócio, autenticação, bancos relacionais, testes, Docker e integração com IA.
-
-Atualmente busco minha **primeira oportunidade de estágio em tecnologia**, onde eu possa contribuir, aprender com um time de desenvolvimento e continuar evoluindo como profissional.
-
-<div align="center">
-
-![Open to work](https://img.shields.io/badge/💼%20Aberto%20a%20oportunidades%20de%20estágio-7c3aed?style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavomirandac/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ymirandex@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LMirandaC07)
 
 </div>
 
 ---
 
-## 🛠️ Tecnologias
+## 👨‍💻 Sobre mim
+
+Sou **Luis Gustavo**, estudante de ADS com foco em **desenvolvimento Back-end Java**. Atualmente desenvolvo APIs com **Spring Boot**, bancos relacionais e Docker, buscando transformar os conceitos que estudo em aplicações completas, testáveis e bem organizadas.
+
+Nos meus projetos, procuro ir além do CRUD: tenho praticado **regras de negócio, autenticação, tratamento de erros, migrations, testes de integração e concorrência**, além de começar a explorar integração de IA com aplicações Java.
+
+Meu objetivo agora é entrar em um time de desenvolvimento onde eu possa contribuir com essa base, aprender com projetos reais e evoluir profissionalmente.
+
+## ⚙️ Stack principal
 
 <div align="center">
 
-### Back-end
-
-![Java](https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-3-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-
-### Banco de dados & Infra
-
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Front-end
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Ferramentas
-
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
 </div>
+
+**Também utilizo:** Spring Data JPA · Spring Security · Maven · JUnit · Flyway · MySQL · REST APIs  
+**Conhecimentos complementares:** React · JavaScript · HTML · CSS
+
+## 📚 Atualmente aprofundando
+
+`Spring Boot` · `Testes automatizados` · `PostgreSQL` · `Docker` · `Arquitetura de APIs` · `Spring AI`
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Projetos que mostram o que sei fazer
 
 ### 🐾 [VetVoice AI](https://github.com/LMirandaC07/vetvoice-ai)
 
-API para gestão de uma clínica veterinária desenvolvida com **Java 21, Spring Boot e PostgreSQL**. O projeto trabalha com clientes, pets, veterinários e consultas, além de explorar **concorrência em agendamentos, testes de integração, Docker, Flyway e Spring AI**.
+**Problema:** gerenciar clientes, pets, veterinários e consultas de uma clínica sem permitir conflitos de horário.
 
-`Java 21` `Spring Boot` `PostgreSQL` `Docker` `Flyway` `JUnit` `Spring AI`
+**O que implementei:** API REST com persistência PostgreSQL, migrations com Flyway, validações, tratamento de erros e proteção contra **double-booking**. O projeto possui um teste que dispara **10 tentativas concorrentes para o mesmo veterinário e horário** e verifica que apenas uma reserva seja persistida.
 
-### 💰 [FinanceApp — Sistema Financeiro Full Stack](https://github.com/LMirandaC07/financeiro-api)
+**Stack:** `Java 21` · `Spring Boot` · `PostgreSQL` · `Docker` · `Flyway` · `JUnit` · `Spring AI`
 
-Aplicação para controle de finanças pessoais, com **API REST em Java/Spring Boot**, autenticação JWT e front-end em React.
+➡️ **[Ver repositório](https://github.com/LMirandaC07/vetvoice-ai)**
 
-`Java` `Spring Boot` `Spring Security` `JWT` `MySQL` `React`
+### 💰 [FinanceApp](https://github.com/LMirandaC07/financeiro-api)
 
-[🔗 API](https://github.com/LMirandaC07/financeiro-api) · [🖥️ Front-end](https://github.com/LMirandaC07/financeiro-front) · [🌐 Aplicação](https://financeiro-front-azure.vercel.app)
+**Problema:** centralizar o controle de finanças pessoais em uma aplicação web.
+
+**O que implementei:** API REST em Java/Spring Boot com autenticação JWT e persistência em MySQL, integrada a uma interface desenvolvida em React.
+
+**Stack:** `Java` · `Spring Boot` · `Spring Security` · `JWT` · `MySQL` · `React`
+
+➡️ [Back-end](https://github.com/LMirandaC07/financeiro-api) · [Front-end](https://github.com/LMirandaC07/financeiro-front) · [Aplicação online](https://financeiro-front-azure.vercel.app)
 
 ---
 
@@ -81,34 +72,26 @@ Aplicação para controle de finanças pessoais, com **API REST em Java/Spring B
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=LMirandaC07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=LMirandaC07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LMirandaC07&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=LMirandaC07&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub streak" />
 
 </div>
 
----
-
-## 🎯 O que estou buscando
-
-Quero iniciar minha carreira profissional em desenvolvimento de software, especialmente em **Back-end / Java**. Tenho interesse em ambientes onde eu possa trabalhar com projetos reais, boas práticas de desenvolvimento, revisão de código e colaboração em equipe.
-
-No momento, estou aprofundando meus conhecimentos em **Spring Boot, bancos relacionais, testes automatizados, Docker e arquitetura de aplicações**.
+> Os projetos acima representam melhor meus estudos e conhecimentos do que as estatísticas de atividade do perfil.
 
 ---
 
 ## 🏀 Além do código
 
-Fora da programação, gosto bastante de **basquete**, futebol, academia e tecnologia. Acredito que consistência faz diferença tanto estudando desenvolvimento quanto em qualquer outra área.
+Fora da programação, gosto de **basquete, futebol, academia e tecnologia**. Tento levar para os estudos a mesma ideia que valorizo no esporte: consistência, evolução e disposição para aprender.
 
 ---
 
 <div align="center">
 
-### Vamos conversar?
+### 📫 Vamos conversar?
+
+Estou aberto a oportunidades de **estágio em desenvolvimento de software**, especialmente com Java e Back-end.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Luis%20Gustavo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavomirandac/)
 [![Email](https://img.shields.io/badge/Email-ymirandex%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ymirandex@gmail.com)
